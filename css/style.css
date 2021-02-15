@@ -1,5 +1,5 @@
 body {
-    color:#0f1011;
+    color:#D2F6FC;
     font-size: 1em;
     font-family: "Open Sans", "Helvetica Neue", sans-serif;
 }
@@ -42,12 +42,14 @@ body {
 .details > p {
     font-weight: 300;
     letter-spacing: 0.05em;
+    color: #DB1D4B;
 }
 
 .details > h2 {
     font-size: 1.2em;
     font-weight: bold;
     margin: 2em 0 1em 0;
+    color: rgb(0, 0, 0);
 }
 
 section > h1 {
