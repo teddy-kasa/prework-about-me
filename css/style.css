@@ -46,10 +46,11 @@ body {
 }
 
 .details > h2 {
+    color: #132743;
     font-size: 1.2em;
     font-weight: bold;
     margin: 2em 0 1em 0;
-    color: #132743;
+  
 }
 
 section > h1 {
